@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	main "github.com/abraithwaite/blahblah"
+	main "github.com/abraithwaite/example_test_export"
 	"github.com/stretchr/testify/assert"
 )
 
